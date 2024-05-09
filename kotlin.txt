@@ -1,1 +1,3 @@
 # Programa-git
+usuario = Palpin152
+correo electronico = palfreypineda@gmail.com
